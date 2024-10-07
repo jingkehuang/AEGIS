@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleDisplayName</key>
+    <string>AEGIS Helper (Plugin)</string>
+    <key>CFBundleExecutable</key>
+    <string>AEGIS Helper (Plugin)</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.aegis.app.helper.Plugin</string>
+    <key>CFBundleName</key>
+    <string>Electron Helper (Plugin)</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>DTCompiler</key>
+    <string>com.apple.compilers.llvm.clang.1_0</string>
+    <key>DTSDKBuild</key>
+    <string>23A334</string>
+    <key>DTSDKName</key>
+    <string>macosx14.0</string>
+    <key>DTXcode</key>
+    <string>1501</string>
+    <key>DTXcodeBuild</key>
+    <string>15A507</string>
+    <key>LSEnvironment</key>
+    <dict>
+      <key>MallocNanoZone</key>
+      <string>0</string>
+    </dict>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSSupportsAutomaticGraphicsSwitching</key>
+    <true/>
+    <key>ElectronAsarIntegrity</key>
+    <dict>
+      <key>Resources/app.asar</key>
+      <dict>
+        <key>algorithm</key>
+        <string>SHA256</string>
+        <key>hash</key>
+        <string>7368ef99cb98d7026e3e248af401caa9b2175e0c061ffc77865cabc34d72943c</string>
+      </dict>
+    </dict>
+  </dict>
+</plist>
