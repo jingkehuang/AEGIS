@@ -1,0 +1,9 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore the client folder and its contents
+client/
+
+# Bytecode files
+__pycache__/
+*.pyc
